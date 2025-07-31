@@ -1,0 +1,8 @@
+100 : Even
+250 : Even
+200 : Even
+260 : Even
+330 : Even
+270 : Even
+10001 : Odd
+30011 : Odd
